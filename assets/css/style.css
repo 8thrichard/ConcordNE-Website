@@ -47,7 +47,7 @@ a {
 
 a:focus,
 a:hover {
-    color: ##877054;
+    color: #877054;
     outline: 0 none;
     text-decoration: none;
 }
@@ -397,7 +397,7 @@ select {
 }
 
 .bootstrap-select.btn-group .dropdown-menu.inner {
-    position: static; *
+    position: static; 
     float: none;
     border: 0;
     padding: 0;
@@ -787,7 +787,10 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(Images/Background.png) no-repeat center / cover; 
+    background-image: url(/Images/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     height: 100%;
     width: 100%;
     display: table;
