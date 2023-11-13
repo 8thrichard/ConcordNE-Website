@@ -787,7 +787,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background-image: url(/Images/background.png);
+    background-image: url(Images/background.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -887,15 +887,15 @@ html, body {
 }
 
 .portfolio-hero {
-    background: url(/Images/Concord-1733.jpg) no-repeat center / cover;     
+    background: url(Images/Concord-1733.jpg) no-repeat center / cover;     
 }
 
 .blog-hero {
-    background: url(/Images/NewsBKG.jpg) no-repeat center / cover;     
+    background: url(Images/NewsBKG.jpg) no-repeat center / cover;     
 }
 
 .contact-hero {
-    background: url(/Images/COURTHOUSE.png) no-repeat center / cover; 
+    background: url(Images/COURTHOUSE.png) no-repeat center / cover; 
 
 }
 
